@@ -1,2 +1,2 @@
 # SingleResponsive
- Single Responsive Princible Example
+ Single Responsive Principle Example
